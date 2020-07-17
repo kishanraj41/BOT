@@ -5,9 +5,8 @@ A internet or web bot is a software application that runs automated tasks (scrip
 
 The main goal of this code is to provide a glimpse of what a bot can do and the role it can play in daily life.
 # code:page_facing_up::
-I have used selenium to automate the process.
-    selenium:Selenium automates browsers.Primarily, it is for automating web applications for testing purposes, but is certainly not limited to just that. Boring web-based administration tasks can (and should!) be automated as well.
-    refer for further info: https://www.seleniumhq.org/docs/
+I have used selenium to automate the process. Primarily, it is for automating web applications for testing purposes, but is certainly not limited to just that. Boring web-based administration tasks can (and should!) be automated as well.
+ refer for further info: https://www.seleniumhq.org/docs/
     
  we can also use API'S to do same tasks but with more complications.
  The code is created with simplicity in mind.The prime goal of the code is to open a gmail acccount and scroll through the mails
