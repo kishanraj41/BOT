@@ -1,4 +1,4 @@
-## BOT :space_invader::
+## Gmail BOT :space_invader::
 
 A internet or web bot is a software application that runs automated tasks (scripts) over the Internet.Typically, bots perform tasks that are both simple and structurally repetitive, at a much higher rate than would be possible for a human alone. The largest use of bots is in web spidering (web crawler), in which an automated script fetches, analyzes and files information from web servers at many times the speed of a human.
 
